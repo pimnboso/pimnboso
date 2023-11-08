@@ -1,5 +1,5 @@
 ### Olá, eu sou Gabriel Rocha 👋
-#### 🖌️ Sou desenvolvedor e designer gráfico 💻
+## 🖌️ Sou desenvolvedor e designer gráfico 💻
 <br>
 <br>
 
